@@ -1,0 +1,8 @@
+ith the inverted index created, the query can now be resolved by jumping to the word id (via random access) in the inverted index.
+In pre-computer times, concordances to important books were manually assembled.
+These were effectively inverted indexes with a small amount of accompanying commentary that required a tremendous amount of effort to produce.
+In bioinformatics, inverted indexes are very important in the sequence assembly of short fragments of sequenced DNA.
+One way to find the source of a fragment is to search for it against a reference DNA sequence.
+A small number of mismatches (due to differences between the sequenced DNA and reference DNA, or errors) can be accounted for by dividing the fragment into smaller fragments—at least one subfragment is likely to match the reference DNA sequence.
+The matching requires constructing an inverted index of all substrings of a certain length from the reference DNA sequence.
+Since the human DNA contains more than 3 billion base pairs, and we need to store a DNA substring for every index and a 32-bit integer for index itself, the storage requirement for such an inverted index would probably be in the tens of gigabytes.

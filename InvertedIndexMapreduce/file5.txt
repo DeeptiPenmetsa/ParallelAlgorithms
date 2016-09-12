@@ -1,0 +1,4 @@
+Relational database management systems and desktop statistics and visualization packages often have difficulty handling big data.
+The work instead requires "massively parallel software running on tens, hundreds, or even thousands of servers".
+What is considered "big data" varies depending on the capabilities of the users and their tools, and expanding capabilities make big data a moving target.
+"For some organizations, facing hundreds of gigabytes of data for the first time may trigger a need to reconsider data management options. For others, it may take tens or hundreds of terabytes before data size becomes a significant consideration.
