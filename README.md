@@ -1,6 +1,5 @@
 # ParallelAlgorithms
 
-Assignment 1
-Inverted Index Mapreduce in Scala
+Assignments 1 to 5
 
 By Team 3
